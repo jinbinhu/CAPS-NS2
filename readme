@@ -27,7 +27,7 @@ patching file ns-2.35/Makefile
 	cd ns-2.35
 	make
 
-5. Now you can run the simple testcases in ns-2.35 directory
+5. Now you can run the simple testcases in ns-2.35 directory.
 	./ns many-to-many.tcl
 	./ns many-to-one.tcl
 
