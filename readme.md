@@ -10,6 +10,7 @@ Please put the patch files outside the 'ns-2.35' folder, but inside the 'ns-alli
   
 ### 2. Patching
 cd **NS-Installation-Path/ns-allinone-2.35
+
 'patch -p5 < CAPS.patch' for CAPS;    
 'patch -p5 < CAPS-dark.patch' for CAPS-dark.    
   
