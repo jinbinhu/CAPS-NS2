@@ -9,6 +9,7 @@ All the patch files ('CAPS.patch' and 'CAPS-dark.patch') should be patched on th
 Please put the patch files outside the 'ns-2.35' folder, but inside the 'ns-allinone-2.35' folder.   
   
 ### 2. Patching
+cd **NS-Installation-Path/ns-allinone-2.35
 'patch -p5 < CAPS.patch' for CAPS;    
 'patch -p5 < CAPS-dark.patch' for CAPS-dark.    
   
@@ -28,7 +29,7 @@ patching file ns-2.35/queue/mydrop-tail.cc
 patching file ns-2.35/Makefile  
 
 ### 4. Compile the codes:  
-	cd ns-2.35  
+	cd **NS-Installation-Path/ns-allinone-2.35/ns-2.35  
 	make  
   
 ### 5. Now you can run the simple testcases in ns-2.35 directory.  
