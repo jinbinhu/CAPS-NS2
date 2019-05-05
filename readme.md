@@ -9,10 +9,9 @@ All the patch files ('CAPS.patch' and 'CAPS-dark.patch') should be patched on th
 Please put the patch files outside the 'ns-2.35' folder, but inside the 'ns-allinone-2.35' folder.   
   
 ### 2. Patching
-cd **NS-Installation-Path/ns-allinone-2.35
-
-'patch -p5 < CAPS.patch' for CAPS;    
-'patch -p5 < CAPS-dark.patch' for CAPS-dark.    
+	cd **NS-Installation-Path/ns-allinone-2.35
+	'patch -p5 < CAPS.patch' for CAPS;    
+	'patch -p5 < CAPS-dark.patch' for CAPS-dark.    
   
 ### 3. The following listed files will be changed successfully if the previous operations are done properly.  
   
