@@ -41,7 +41,7 @@ patching file ns-2.35/Makefile
 ### 4. Compile the codes:  
 
 	cd **(NS-Installation-Path)/ns-allinone-2.35/ns-2.35  
-	make  
+	sudo make  
   
 ### 5. Now you can run the simple testcases in ns-2.35 directory.
 
