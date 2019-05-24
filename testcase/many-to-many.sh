@@ -2,8 +2,8 @@
 ## Usage: ./many-to-many.sh sfnum1 sfnum2 ....
 ## e.g.   ./many-to-many.sh 10 20 30 40 50 60 70 80 >result
 
-CAPSPATH=/home/hjb/caps-2nd-review/test/temp/ns-allinone-2.35/ns-2.35/ns
-cd /home/hjb/caps-2nd-review/testcase/upload-github-testcase
+cd ./testcase
+CAPSPATH= ../ns-allinone-2.35/ns-2.35/ns
 
 if [ -f "./timeout.txt" ];then
 rm -f timeout.txt
