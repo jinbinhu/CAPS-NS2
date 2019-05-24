@@ -6,7 +6,7 @@ These are simple implementations of CAPS and CAPS-dark on ns-2.35.
   
 ### 1. Place all the files： 
 
-Initially, 'CAPS.patch'，'CAPS-dark.patch'，‘CAPS.sh’，'CAPS-dark.sh', ‘testcase’, 'many-to-one.sh' and 'many-to-many.sh' are in the same level directory.
+Initially, 'CAPS.patch'，'CAPS-dark.patch'，‘CAPS.sh’，'CAPS-dark.sh', 'many-to-one.sh'， 'many-to-many.sh' and ‘testcase’ are in the same level directory.
   
 ### 2. Installing, Patching and Compiling:
 	
