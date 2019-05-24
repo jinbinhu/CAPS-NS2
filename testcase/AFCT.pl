@@ -1,6 +1,4 @@
 #!/usr/bin/perl
-###  creator:hujinbin
-###  created data:20170124
 ###  AFCT 
 
 my $source_file = shift @ARGV;
