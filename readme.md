@@ -4,48 +4,30 @@ These are simple implementations of CAPS and CAPS-dark on ns-2.35.
   
 # Usage:
   
-### 1. Place the patch file 
+### 1. Place all the files： 
 
-All the patch files ('CAPS.patch' and 'CAPS-dark.patch') should be patched on the original ns-2.35.  
-Please put the patch files outside the 'ns-2.35' folder, but inside the 'ns-allinone-2.35' folder.   
+Initially, 'CAPS.patch'，'CAPS-dark.patch'，‘CAPS.sh’，'CAPS-dark.sh', ‘testcase’, 'many-to-one.sh' and 'many-to-many.sh' are in the same level directory.
   
-### 2. Patching:
-
-Go to the 'ns-allinone-2.35' folder:
-
-	cd **(NS-Installation-Path)/ns-allinone-2.35
+### 2. Installing, Patching and Compiling:
 	
 For CAPS:
 
-	patch -p5 < CAPS.patch   
+	```Bash  
+	sudo ./CAPS.sh
+	```
 	
 For CAPS-dark:
 
-	patch -p5 < CAPS-dark.patch
+	```Bash  
+	sudo ./CAPS-dark.sh
+	```
+	
+All the patch files ('CAPS.patch' and 'CAPS-dark.patch') should be patched on the original ns-2.35.  
+Please put the patch files outside the 'ns-2.35' folder, but inside the 'ns-allinone-2.35' folder.  
   
-### 3. The following listed files will be changed successfully if the previous operations are done properly;
-  
-patching file ns-2.35/classifier/classifier-mpath.cc  
-patching file ns-2.35/classifier/hjbextra.h  
-patching file ns-2.35/tcl/lib/ns-default.tcl  
-patching file ns-2.35/tcp/tcp.h  
-patching file ns-2.35/tcp/tcp.cc  
-patching file ns-2.35/tcp/tcp-sink.h  
-patching file ns-2.35/tcp/tcp-sink.cc  
-patching file ns-2.35/common/agent.cc  
-patching file ns-2.35/common/agent.h  
-patching file ns-2.35/queue/mydrop-tail.h  
-patching file ns-2.35/queue/mydrop-tail.cc  
-patching file ns-2.35/Makefile  
+### 3. Now you can run the simple testcases.
 
-### 4. Compile the codes:  
-
-	cd **(NS-Installation-Path)/ns-allinone-2.35/ns-2.35  
-	sudo make  
-  
-### 5. Now you can run the simple testcases in ns-2.35 directory.
-
-	./ns many-to-one.tcl  
-	./ns many-to-many.tcl  
+	./many-to-one.sh 
+	./many-to-many.sh  
   
 If you have any questions, please email to jinbinhu@csu.edu.cn.  
