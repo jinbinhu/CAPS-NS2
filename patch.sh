@@ -7,7 +7,8 @@ cp ../CAPS.patch ./
 
 # For CAPS:
 patch -p5 < CAPS.patch   
-# CAPS-dark:
+
+# For CAPS-dark:
 #patch -p5 < CAPS-dark.patch
 
 cd ns-2.35
