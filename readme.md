@@ -19,7 +19,7 @@ For CAPS-dark:
 	sudo ./CAPS-dark.sh
 	
 All the patch files ('CAPS.patch' and 'CAPS-dark.patch') should be patched on the original ns-2.35.  
-Please put the patch files outside the 'ns-2.35' folder, but inside the 'ns-allinone-2.35' folder.  
+Please put the patch files inside the 'ns-allinone-2.35' folder, but outside the 'ns-2.35' folder.  
   
 ### 3. Now you can run the simple testcases:
 
