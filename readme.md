@@ -11,16 +11,12 @@ Initially, 'CAPS.patch', 'CAPS-dark.patch', ‘CAPS.sh’, 'CAPS-dark.sh', 'many
 ### 2. Installing, Patching and Compiling:
 	
 For CAPS:
-
-	```Bash  
+ 
 	sudo ./CAPS.sh
-	```
 	
 For CAPS-dark:
-
-	```Bash  
+ 
 	sudo ./CAPS-dark.sh
-	```
 	
 All the patch files ('CAPS.patch' and 'CAPS-dark.patch') should be patched on the original ns-2.35.  
 Please put the patch files outside the 'ns-2.35' folder, but inside the 'ns-allinone-2.35' folder.  
