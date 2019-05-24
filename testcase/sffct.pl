@@ -1,8 +1,5 @@
 #!/usr/bin/perl
-###  creator:hujinbin
-###  created data:20170124
-###  del lf FCT
-###  uSAGE: perl sffct.pl $sfno 
+###  USAGE: perl sffct.pl $sfno 
 
 my $source_file = shift @ARGV;
 my $sfno = shift @ARGV;
