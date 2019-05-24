@@ -1,6 +1,6 @@
 #!/usr/bin/perl
-###  creator:hujinbin
-###  created data:20170124
+
+# USAGE: perl timeout.pl $source_file $sfno
 
 my $source_file = shift @ARGV;
 my $sfno = shift @ARGV;
