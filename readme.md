@@ -23,7 +23,7 @@ Please put the patch files inside the 'ns-allinone-2.35' folder, but outside the
   
 ### 3. Now you can run the simple testcases:
 
-	./many-to-one.sh 
-	./many-to-many.sh  
+	./many-to-one.sh 10 20 30 40 50 60 70 80
+	./many-to-many.sh 10 20 30 40 50 60 70 80
   
 If you have any questions, please email to jinbinhu@csu.edu.cn.  
