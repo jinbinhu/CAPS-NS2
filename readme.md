@@ -27,7 +27,7 @@ Please put the patch files inside the 'ns-allinone-2.35' folder, but outside the
 	./many-to-many.sh 10 20 30 40 50 60 70 80
 	
 Note:    
-##### 1. You can download ns-2.35 installation package (ns-allinone-2.35.tar.gz) at the following address:
+##### 1. You can download "ns-allinone-2.35.tar.gz" at the following address:
 https://pan.baidu.com/s/1ubjwpn19SGgZqQOFJ7lEhg          
 Password： h0hm 
 
