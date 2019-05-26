@@ -26,12 +26,12 @@ Please put the patch files inside the 'ns-allinone-2.35' folder, but outside the
 	./many-to-one.sh 10 20 30 40 50 60 70 80
 	./many-to-many.sh 10 20 30 40 50 60 70 80
 	
-Note: 
-You can download ns-2.35 installation package (ns-allinone-2.35.tar.gz) at the following address:
+Note:    
+#### 1. You can download ns-2.35 installation package (ns-allinone-2.35.tar.gz) at the following address:
 https://pan.baidu.com/s/1ubjwpn19SGgZqQOFJ7lEhg          
 Password： h0hm 
 
-You can download our test environment (ubuntu 12.04 with Linux kernel 3.11.0-15-generic) at the following address:
+#### 2. You can download our test environment (ubuntu 12.04 with Linux kernel 3.11.0-15-generic) at the following address:
 https://pan.baidu.com/s/1zzm32pk5YKivlKxIB1GCVQ    
 Password： gczb 
   
