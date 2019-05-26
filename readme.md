@@ -20,6 +20,8 @@ For CAPS-dark:
 	
 All the patch files ('CAPS.patch' and 'CAPS-dark.patch') should be patched on the original ns-2.35.  
 Please put the patch files inside the 'ns-allinone-2.35' folder, but outside the 'ns-2.35' folder.  
+You can download ns-2.35 installation package (ns-allinone-2.35.tar.gz) at the following address: https://pan.baidu.com/s/1ubjwpn19SGgZqQOFJ7lEhg 
+Password： h0hm 
   
 ### 3. Now you can run the simple testcases:
 
