@@ -31,7 +31,7 @@ Note:
 https://pan.baidu.com/s/1ubjwpn19SGgZqQOFJ7lEhg          
 Password： h0hm 
 
-##### 2. You can download our test environment (ubuntu 12.04 with Linux kernel 3.11.0-15-generic) at the following address:
+##### 2. You can download the test environment (ubuntu 12.04 with Linux kernel 3.11.0-15-generic) at the following address:
 https://pan.baidu.com/s/1zzm32pk5YKivlKxIB1GCVQ    
 Password： gczb 
   
