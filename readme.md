@@ -33,10 +33,11 @@ Please put the patch files inside the 'ns-allinone-2.35' folder, but outside the
 Note: Because the following files exceed 25M,   
 ##### 1. You can download "ns-allinone-2.35.tar.gz" at the following address:
 https://pan.baidu.com/s/1ubjwpn19SGgZqQOFJ7lEhg          
-Password： h0hm 
+Download password： h0hm 
 
 ##### 2. You can download the test environment (ubuntu 12.04 with Linux kernel 3.11.0-15-generic) at the following address:
 https://pan.baidu.com/s/1zzm32pk5YKivlKxIB1GCVQ    
-Password： gczb 
-  
+Download password： gczb 
+sudo password: master
+ 
 If you have any questions, please email to jinbinhu@csu.edu.cn.  
