@@ -1,6 +1,6 @@
 # Description: 
   
-These are simple implementations of CAPS and CAPS-dark on ns-2.35.
+These are simple implementations of CAPS and CAPS-dark on ns-2.35.  
 We have tested CAPS and CAPS-dark in the ubuntu 16.04 with Linux kernel 4.8.0-36-generic or 4.13.0-41-generic.
   
 # Usage:
