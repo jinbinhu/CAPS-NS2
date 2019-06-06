@@ -1,6 +1,5 @@
 #!/bin/bash
 
-chmod 777 *
 #Installing
 tar -xvzf  ns-allinone-2.35.tar.gz
 cd ns-allinone-2.35
