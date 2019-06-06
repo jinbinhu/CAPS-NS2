@@ -24,7 +24,7 @@ perl timeout.pl FCT-SF.txt $1
 echo ""
 
 echo "sfnum=20"
-$CAPSPATH ./many-to-one.tcl 40 20 3 256 18 0.10575 0.105750004 4 4  >result
+../ns-allinone-2.35/ns-2.35/ns ./many-to-one.tcl 40 20 3 256 18 0.10575 0.105750004 4 4  >result
 ./FCT.sh
 perl sffct.pl FCT.txt $2
 perl AFCT.pl FCT-SF.txt $2
