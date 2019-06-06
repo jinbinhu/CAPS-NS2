@@ -13,12 +13,12 @@ Initially, you need to prepare the NS installation package "ns-allinone-2.35.tar
 	
 For CAPS:
 
-        sudo chmod 777 *
+	sudo -R chmod 777 *
 	sudo ./CAPS.sh
 	
 For CAPS-dark (Another CAPS version without prior knowledge):
  	
-	sudo chmod 777 *
+	sudo -chmod 777 *
 	sudo ./CAPS-dark.sh
 	
 All the patch files ('CAPS.patch' and 'CAPS-dark.patch') should be patched on the original ns-2.35.  
