@@ -11,7 +11,7 @@ cp ../ls.h ./linkstate/
 ./install
 
 
-#Installing gnu plot
+#Installing gnuplot
 #sudo apt install gnuplot
 
 
