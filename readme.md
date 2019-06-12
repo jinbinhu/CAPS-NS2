@@ -19,8 +19,8 @@ Please put the following files or folders  ( 'ns-allinone-2.35.tar.gz', 'ls.h', 
 For example: put all the above files and folders in the folder: "CAPS-NS2-master"
 
 ### 3. Installing NS2:
-
-      cd CAPS-NS2-master
+	
+	cd CAPS-NS2-master
 	sudo chmod -R 777 *
 	sudo ./NS2.sh
   
