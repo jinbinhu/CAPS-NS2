@@ -7,7 +7,8 @@ We have tested CAPS and CAPS-dark in the ubuntu 16.04.1 with Linux kernel 4.8.0-
 
 ### 1. Download "ubuntu 16.04.1" and "ns-allinone-2.35.tar.gz"
 
-You can download "ubuntu-16.04.1-desktop-amd64.iso" from this website: http://old-releases.ubuntu.com/releases/16.04.1/
+You can download "ubuntu-16.04.1-desktop-amd64.iso" from this website:   
+http://old-releases.ubuntu.com/releases/16.04.1/
 
   
 ### 2. Place all the files： 
