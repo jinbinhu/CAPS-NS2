@@ -15,10 +15,12 @@ https://sourceforge.net/projects/nsnam/files/allinone/ns-allinone-2.35/ns-allino
   
 ### 2. Place all the files： 
 
-Please put the following files or folders  ( 'ns-allinone-2.35.tar.gz', 'ls.h', 'NS2.sh', 'CAPS.patch', 'CAPS-dark.patch', ‘CAPS.sh’, 'CAPS-dark.sh', 'many-to-one.sh', 'many-to-many.sh' and ‘testcase’ )  in the same level directory.
+Please put the following files or folders  ( 'ns-allinone-2.35.tar.gz', 'ls.h', 'NS2.sh', 'CAPS.patch', 'CAPS-dark.patch', ‘CAPS.sh’, 'CAPS-dark.sh', 'many-to-one.sh', 'many-to-many.sh' and ‘testcase’ )  in the same level directory.  
+For example: put all the above files and folders in the folder: "CAPS-NS2-master"
 
 ### 3. Installing NS2:
 
+        cd CAPS-NS2-master
 	sudo chmod -R 777 *
 	sudo ./NS2.sh
   
